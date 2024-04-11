@@ -5,8 +5,8 @@ yes.addEventListener('click', () => {
     alert("💕❤️I Love You Sweet Heart😍 Babu ❤️💕");
 })
 function movetarget() {
-    const maxWidth = 400;
-    const maxHeight = 400;
+    const maxWidth = 100;
+    const maxHeight = 500;
 
     const ranomX = Math.floor(Math.random() * maxWidth);
     const ranomY = Math.floor(Math.random() * maxHeight);
