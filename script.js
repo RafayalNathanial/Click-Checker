@@ -2,7 +2,7 @@ const target = document.getElementById('target');
 let yes = document.getElementById('yes');
 
 yes.addEventListener('click', () => {
-    alert("What You Think");
+    alert("💕❤️I Love You Sweet Heart😍 Babu ❤️💕");
 })
 function movetarget() {
     const maxWidth = 400;
